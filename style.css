@@ -289,7 +289,6 @@ footer {
 display: flex;
 justify-content: center;
 cursor: default;
-pointer-events: none;
 margin-bottom: 0;
 
 }
