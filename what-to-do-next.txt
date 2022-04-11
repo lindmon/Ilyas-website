@@ -1,0 +1,8 @@
+1 done add phtot
+2 done add the CV for looking a tha page and download if neccesary
+3 done make the CV buton huge (6 rem) and put three icons vertical, 
+close to the CV button(letter, linkidIN, gitHub in this order from top to buttom)
+4 done add prefixes for different browsers
+5 done add robot tags for google in html
+6 add texts and links
+7 host website
